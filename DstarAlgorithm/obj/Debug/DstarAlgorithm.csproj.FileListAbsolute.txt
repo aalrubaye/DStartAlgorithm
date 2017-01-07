@@ -1,0 +1,112 @@
+D:\D-star my project\new D-star\DstarAlgorithm\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\DstarAlgorithm\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\DstarAlgorithm\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\D-star my project\new D-star\DstarAlgorithm\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+D:\D-star my project\new D-star\DstarAlgorithm\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+D:\D-star my project\new D-star\DstarAlgorithm\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+D:\D-star my project\new D-star\DstarAlgorithm\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\DstarAlgorithm\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY DstarAlgorithm\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY DstarAlgorithm\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY DstarAlgorithm\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY DstarAlgorithm\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY DstarAlgorithm\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\D-star my project\new D-star\COPY DstarAlgorithm\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+D:\D-star my project\new D-star\COPY DstarAlgorithm\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+D:\D-star my project\new D-star\COPY DstarAlgorithm\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+D:\D-star my project\new D-star\COPY2\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY2\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY2\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY2\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY2\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\D-star my project\new D-star\COPY2\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+D:\D-star my project\new D-star\COPY2\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+D:\D-star my project\new D-star\COPY2\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+D:\D-star my project\new D-star\COPY3\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY3\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY3\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\D-star my project\new D-star\COPY3\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+D:\D-star my project\new D-star\COPY3\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+D:\D-star my project\new D-star\COPY3\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+D:\D-star my project\new D-star\COPY3\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY3\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY4\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY4\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY4\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\D-star my project\new D-star\COPY4\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+D:\D-star my project\new D-star\COPY4\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+D:\D-star my project\new D-star\COPY4\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+D:\D-star my project\new D-star\COPY4\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY4\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY5\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY5\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY5\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY5\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\D-star my project\new D-star\COPY5\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+D:\D-star my project\new D-star\COPY5\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+D:\D-star my project\new D-star\COPY5\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+D:\D-star my project\new D-star\COPY5\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY6\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY6\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY6\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY6\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY6\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\D-star my project\new D-star\COPY6\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+D:\D-star my project\new D-star\COPY6\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+D:\D-star my project\new D-star\COPY6\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+D:\D-star my project\new D-star\COPY7\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY7\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY7\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY7\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY7\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\D-star my project\new D-star\COPY7\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+D:\D-star my project\new D-star\COPY7\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+D:\D-star my project\new D-star\COPY7\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+D:\D-star my project\new D-star\COPY7exp1\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY7exp1\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY7exp1\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY7exp1\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY7exp1\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\D-star my project\new D-star\COPY7exp1\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+D:\D-star my project\new D-star\COPY7exp1\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+D:\D-star my project\new D-star\COPY7exp1\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+D:\D-star my project\new D-star\COPY7exp3\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY7exp3\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY7exp3\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY7exp3\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY7exp3\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\D-star my project\new D-star\COPY7exp3\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+D:\D-star my project\new D-star\COPY7exp3\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+D:\D-star my project\new D-star\COPY7exp3\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+D:\D-star my project\new D-star\COPY7exp4\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY7exp4\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY7exp4\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\COPY7exp4\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\COPY7exp4\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\D-star my project\new D-star\COPY7exp4\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+D:\D-star my project\new D-star\COPY7exp4\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+D:\D-star my project\new D-star\COPY7exp4\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+D:\D-star my project\new D-star\MY_LAST\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\MY_LAST\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+D:\D-star my project\new D-star\MY_LAST\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\D-star my project\new D-star\MY_LAST\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+D:\D-star my project\new D-star\MY_LAST\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+D:\D-star my project\new D-star\MY_LAST\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+D:\D-star my project\new D-star\MY_LAST\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+D:\D-star my project\new D-star\MY_LAST\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+E:\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+E:\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+E:\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+E:\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+E:\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+E:\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+E:\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+E:\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache
+E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\obj\Debug\DstarAlgorithm.exe
+E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\obj\Debug\DstarAlgorithm.pdb
+E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\bin\Debug\DstarAlgorithm.exe
+E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\bin\Debug\DstarAlgorithm.pdb
+E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\obj\Debug\DstarAlgorithm.Form1.resources
+E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\obj\Debug\DstarAlgorithm.Properties.Resources.resources
+E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm\obj\Debug\DstarAlgorithm.csproj.GenerateResource.Cache

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DstarAlgorithm">
+</Property><Property Name="Solution File" Value="E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm.sln">
+</Property><Property Name="User Options File" Value="E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\DstarAlgorithm.suo">
+</Property><Property Name="Date" Value="14 شباط, 2012">
+</Property><Property Name="Time" Value="21:52 م">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DstarAlgorithm.sln" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DstarAlgorithm.suo" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm.suo">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\DstarAlgorithm.csproj" Description="Project file successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\DstarAlgorithm.csproj">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Class1.cs" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Class1.cs">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Form1.cs" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Form1.Designer.cs" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Program.cs" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Program.cs">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Properties\Settings.settings" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Resources\001.JPG" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Resources\001.JPG">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Resources\0011.JPG" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Resources\0011.JPG">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Resources\0012.JPG" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Resources\0012.JPG">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Resources\50.jpg" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Resources\50.jpg">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Form1.resx" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\Properties\Resources.resx" Description="File successfully backed up as E:\MyProjects\Dstar MyProject\HEURISTIC SEARCH USING D_STAR ALGORITHM\Backup\DstarAlgorithm\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\DstarAlgorithm.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DstarAlgorithm" Source="DstarAlgorithm\DstarAlgorithm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DstarAlgorithm.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DstarAlgorithm.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DstarAlgorithm" Source="DstarAlgorithm\DstarAlgorithm.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
