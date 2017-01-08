@@ -16,8 +16,6 @@ By this point, a whole series of other points are prevented from being "touched"
 
 ![ph02](https://cloud.githubusercontent.com/assets/17988691/21746269/f2dd845e-d50c-11e6-9aaa-bf459254df91.JPG)
 
-![ph02](https://cloud.githubusercontent.com/assets/17988691/21746274/06d56396-d50d-11e6-9ddb-3d6ec55d7502.JPG)
-
 ![ph03](https://cloud.githubusercontent.com/assets/17988691/21746275/06da8ae2-d50d-11e6-9ab8-92110b089a74.JPG)
 
 ![ph05](https://cloud.githubusercontent.com/assets/17988691/21746276/06dc3fe0-d50d-11e6-82e4-d49f7db12302.JPG)
