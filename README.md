@@ -12,3 +12,5 @@ When an obstruction is detected along the intended path, all the points that are
 By this point, a whole series of other points are prevented from being "touched" by the waves. The algorithm has therefore only worked on the points which are affected by change of cost.
 
 ##Scrrenshots
+![ph01](https://cloud.githubusercontent.com/assets/17988691/21746267/d1bc9490-d50c-11e6-978e-c72746c72dbc.JPG)
+
